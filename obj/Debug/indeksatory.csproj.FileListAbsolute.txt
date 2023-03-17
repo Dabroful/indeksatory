@@ -1,0 +1,7 @@
+D:\Разработка\C#\indeksatory\bin\Debug\indeksatory.exe
+D:\Разработка\C#\indeksatory\bin\Debug\indeksatory.pdb
+D:\Разработка\C#\indeksatory\obj\Debug\indeksatory.csproj.AssemblyReference.cache
+D:\Разработка\C#\indeksatory\obj\Debug\indeksatory.csproj.SuggestedBindingRedirects.cache
+D:\Разработка\C#\indeksatory\obj\Debug\indeksatory.csproj.CoreCompileInputs.cache
+D:\Разработка\C#\indeksatory\obj\Debug\indeksatory.exe
+D:\Разработка\C#\indeksatory\obj\Debug\indeksatory.pdb
